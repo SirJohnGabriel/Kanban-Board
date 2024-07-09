@@ -5,7 +5,7 @@ This Python application implements a simple Kanban board using Tkinter for the G
 
 ## Features
 - **Task Management:** Add, edit, delete tasks categorized into To-Do, Doing, and Done.
-- **GUI Interface:** Utilizes Tkinter for a simple yet effective graphical interface.
+- **GUI Interface:** Utilizes Tkinter and Customtkinter for a simple yet effective graphical interface.
 - **SQLite Database:** Stores tasks locally using SQLite for lightweight data management.
 
 ## Installation
