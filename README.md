@@ -14,7 +14,7 @@ This Python application implements a simple Kanban board using Tkinter for the G
   git clone https://github.com/SirJohnGabriel/Kanban-Board.git
   cd Kanban-Board
   ```
-3. Install dependencies:
+2. Install dependencies:
 - Ensure Python 3.x is installed.
 - Install required packages using pip:
   ```
