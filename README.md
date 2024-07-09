@@ -17,7 +17,7 @@ This Python application implements a simple Kanban board using Tkinter for the G
   ```
 
 2. Install dependencies:
-- Ensure Python 3.x is installed.
+- Ensure Python 3.11 is installed.
 - Install required packages using pip:
 
   ```
